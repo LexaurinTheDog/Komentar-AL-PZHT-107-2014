@@ -1,0 +1,46 @@
+# Komentar i ligjit nr. 107/2014 “Për planifikimin dhe zhvillimin e territorit”
+
+> **Për komentarin:** Objekt i komentarit është ligji nr. 107/2014, datë 31.7.2014 “Për planifikimin dhe zhvillimin e territorit”, i komentuar nen pas neni — **76 njësi** (nenet 1–62, nenet e shtuara me numër të pjesshëm dhe tri dispozita kalimtare të ligjeve ndryshuese). Për çdo njësi jepet teksti i plotë i dispozitës sipas tekstit të konsoliduar zyrtar të QBZ dhe komentari.
+
+## Të dhënat bazë
+
+- **Akti:** Ligji nr. 107/2014, datë 31.7.2014 “Për planifikimin dhe zhvillimin e territorit”
+- **Baza kushtetuese (sipas preambulës):** nenet 78 dhe 83, pika 1, të Kushtetutës; me propozimin e Këshillit të Ministrave
+- **Miratimi:** Kuvendi i Republikës së Shqipërisë, 31.7.2014
+- **Botimi:** Fletorja Zyrtare nr. 137, datë 1.9.2014
+- **Hyrja në fuqi:** 1 tetor 2014 (neni 62)
+- **Ndryshimet e pasqyruara në tekst (sipas titullit të tekstit të konsoliduar):** ligji nr. 73/2015, datë 9.7.2015; ligji nr. 28/2017, datë 23.3.2017; ligji nr. 42/2019, datë 4.7.2019; ligji nr. 119/2020, datë 7.10.2020; vendimi i Gjykatës Kushtetuese nr. 15, datë 22.6.2022 (shfuqizim i pjesshëm i nenit 52 pika 1 shkronja “e”); ligji nr. 41/2024, datë 2.5.2024; akti normativ nr. 8, datë 1.10.2025, i cili sipas shënimit 1 të tekstit zyrtar është miratuar me ligjin nr. 61/2025, datë 6.11.2025
+- **Aktet e shfuqizuara (neni 61):** ligji nr. 10 119, datë 23.4.2009 “Për planifikimin e territorit”, i ndryshuar, dhe aktet nënligjore të tij; ligji nr. 96/2013, datë 4.3.2013
+- **Baza e tekstit:** teksti i konsoliduar i QBZ, versioni **cons-2025-10-07** (“i përditësuar”), marrë më 2.10.2026
+- **Burimi:** Qendra e Botimeve Zyrtare — ELI [qbz.gov.al/eli/ligj/2014/07/31/107](https://qbz.gov.al/eli/ligj/2014/07/31/107); versioni i konsoliduar `http://qbz.gov.al/eli/ligj/2014/07/31/107/cons/202512-09`
+
+## Struktura e ligjit dhe e komentarit
+
+Ligji ndahet në gjashtë krerë: kreu I — dispozita të përgjithshme (nenet 1–4/1); kreu II — planifikimi, me seksionet për autoritetet e planifikimit dhe përgjegjësitë e tyre (nenet 5–14/1), për dokumentet e planifikimit (nenet 15–22) dhe për bashkërendimin, këshillimin dhe shqyrtimin publik (nenet 23–26); kreu III — zhvillimi, me seksionet për autoritetet përgjegjëse (nenet 27–29), për instrumentet e drejtimit të zhvillimit (nenet 30–36), për kushtet për zhvillim dhe dokumentet e kontrollit të zhvillimit (nenet 37–42) dhe për procesin e kontrollit të zhvillimit (nenet 43–49/1); kreu IV — vëzhgimi, inspektimi, kundërvajtjet e dënimet (nenet 50–53); kreu V — Regjistri Kombëtar i Planifikimit të Territorit (nenet 54–57); kreu VI — dispozita kalimtare dhe të fundit (nenet 58–62, me tri dispozita kalimtare të shtuara me ligjet nr. 73/2015, nr. 28/2017 dhe nr. 41/2024). Komentari i grupon këta krerë në tre kapituj:
+
+1. Dispozita të përgjithshme dhe planifikimi i territorit (nenet 1–26);
+2. Zhvillimi i territorit: autoritetet, instrumentet, lejet dhe procesi i kontrollit të zhvillimit (nenet 27–49/1);
+3. Vëzhgimi, inspektimi, kundërvajtjet, regjistri dhe dispozitat kalimtare e të fundit (nenet 50–62).
+
+## Vështrim i përgjithshëm
+
+Ligji është akti kuadër i së drejtës shqiptare të planifikimit të territorit dhe të ndërtimit. Ai mbështetet në dallimin ndërmjet së drejtës së pronësisë dhe së drejtës për zhvillim (neni 3 pika 10): pronari mund të zhvillojë tokën vetëm brenda kushteve që përcaktojnë dokumentet e planifikimit, dhe zhvillimi lejohet vetëm në këto kushte (neni 37). Mbi këtë bazë ndërtohen dy shtyllat e ligjit.
+
+E para është **planifikimi**. Ligji krijon një sistem hierarkik dokumentesh (neni 15): në nivel qendror, Plani i Përgjithshëm Kombëtar i Territorit si kuadër referues i detyrueshëm (neni 16), Plani Kombëtar i Hapësirës Detare, planet kombëtare sektoriale dhe planet e detajuara për zona të rëndësisë kombëtare ose qendrore; në nivel vendor, planet sektoriale të qarkut, plani i përgjithshëm vendor dhe planet e detajuara vendore. Autoritetet e planifikimit (neni 5) janë Këshilli i Ministrave, Këshilli Kombëtar i Territorit dhe Ujit (KKTU), ministria, këshilli i qarkut, këshilli bashkiak dhe kryetari i bashkisë, ndërsa Agjencia Kombëtare e Planifikimit të Territorit kontrollon përputhshmërinë e dokumenteve (neni 9). Procesi i planifikimit kërkon bashkërendim, takime publike me njoftim 30-ditor dhe arsyetim të trajtimit të vërejtjeve (nenet 23–25); dokumentet hyjnë në fuqi me botimin në Regjistrin Kombëtar të Planifikimit të Territorit (neni 56).
+
+E dyta është **zhvillimi**. Autoritetet e zhvillimit janë vetëm KKTU-ja, për rastet e rëndësishme kombëtare, bregdetare, strategjike dhe komplekse, dhe kryetari i bashkisë për pjesën tjetër (nenet 27–29). Ligji parashikon instrumente të drejtimit të zhvillimit — intensitetin e ndërtimit me kushte, transferimin e së drejtës për zhvillim, zhvillimin e detyrueshëm, pezullimin e zhvillimit, servitutin publik, të drejtën e transferimit dhe të drejtën e preferimit (nenet 30–36) — dhe një varg aktesh kontrolli: leja e zhvillimit, leja e ndërtimit, deklarata paraprake për punimet e vogla dhe certifikata e përdorimit (nenet 38–42). Kërkesa për leje paraqitet vetëm përmes sistemit e-Leje dhe shqyrtohet sipas parimit të një ndalese brenda 60 ditëve pune, me miratim në heshtje në rastet e lejuara (nenet 43–44). Lejet në kundërshtim me ligjin dhe me dokumentet e planifikimit janë absolutisht të pavlefshme (neni 39 pika 4).
+
+Ndryshimet e viteve 2024 dhe 2025 e kanë forcuar ndjeshëm rolin e nivelit qendror (KKTU-ja dhe Agjencia e Zhvillimit të Territorit si sekretariat i saj), digjitalizimin (e-Leje, e-Planifikimi, gjenerimi automatik i lejes) dhe sanksionet ndaj ndërtimeve të paligjshme: konfiskimi për interes publik ose strehim social sipas pragjeve 2 dhe 10 për qind (neni 40/1), “lista e zezë” e zhvilluesve (neni 50/1), gjoba të larta edhe për zyrtarët dhe largimi nga puna i punonjësve të shtetit të lidhur me punime pa leje (neni 52). Mjetet ankimore kundër akteve të autoriteteve të zhvillimit nuk kanë efekt pezullues (neni 49/1).
+
+## Metoda
+
+- Teksti i dispozitave është marrë **fjalë për fjalë** dhe në mënyrë automatike (me një skript analizues) nga teksti i konsoliduar zyrtar i QBZ, pa shkurtime; rreshtat e ndarë nga faqosja e dokumentit janë bashkuar në paragrafë, ndërsa numrat e faqeve dhe ndarjet e faqeve janë hequr. Kur një paragraf i tekstit zyrtar ndërpritet nga kalimi në faqen tjetër, ai jepet në dy pjesë të njëpasnjëshme, në mënyrë që secila pjesë të mbetet identike me tekstin burimor. Shënimet redaksionale të QBZ për ndryshimet (“ndryshuar …”, “shtuar …”) jepen si shënime nën tekstin e nenit përkatës. Gabimet gjuhësore ose redaksionale të tekstit zyrtar (p.sh. “sipas neni 24” në nenin 52, shkurtimi i vjetër “KKT” në disa nene) janë ruajtur siç janë.
+- Teksti zyrtar përmban dy shënime në fund të faqes. Shënimi 1 (te titulli i ligjit) thotë se akti normativ nr. 8, datë 1.10.2025, është miratuar me ligjin nr. 61/2025, datë 6.11.2025; ai jepet vetëm në këtë hyrje. Shënimi 2 (te neni 52 pika 1 shkronja “e”, ku numri “2” mbetet në tekst pas shkronjës “e)”) riprodhon dispozitivin e vendimit të Gjykatës Kushtetuese nr. 15, datë 22.6.2022, dhe jepet si shënim nën nenin 52.
+- Në dy nene (11 dhe 20) faqosja e tekstit burimor i ka zhvendosur fjalët përmbyllëse të disa pikave (“qarku.”, “qarkut.”, “ligji;”) jashtë vendit të tyre; skripti i vendos ato në fund të pikës përkatëse, pa ndryshuar asnjë fjalë, dhe kjo tregohet me shënim te neni përkatës.
+- Krerët dhe seksionet e ligjit jepen si nëntituj. Preambula dhe formula e miratimit nuk janë përfshirë si njësi më vete; të dhënat e tyre jepen më lart. Tri dispozitat kalimtare të ligjeve ndryshuese, të cilat në tekstin e konsoliduar ndodhen ndërmjet neneve 61 dhe 62, jepen si njësi më vete, me ligjin ndryshues si nëntitull.
+- Komentari është hartuar **vetëm mbi bazën e materialeve lokale** (teksti zyrtar i aktit dhe metadatat e tij), pa përdorur baza të dhënash juridike komerciale. **Praktika gjyqësore nuk është pjesë e këtij versioni**; ajo do të shtohet në një fazë të veçantë. I vetmi vendim gjyqësor i përmendur është vendimi i Gjykatës Kushtetuese nr. 15, datë 22.6.2022, sepse ai citohet në vetë tekstin zyrtar. Aktet e tjera ligjore përmenden vetëm kur u referohet vetë teksti i ligjit (Kushtetuta, Kodi Civil, Kodi i Procedurave Administrative, Kodi i Punës, Kodi Detar, ligji nr. 8743, datë 22.2.2001 “Për pronat e paluajtshme të shtetit”, ligji nr. 55/2025 “Për administrimin e bashkëpronësisë në ndërtesa”, ligji nr. 8402, datë 10.9.1998 “Për kontrollin dhe disiplinimin e punimeve të ndërtimit”, ligjet e shfuqizuara dhe ndryshuese). Aktet nënligjore të nxjerra në zbatim të ligjit (rregulloret e planifikimit, zhvillimit, ndërtimit dhe të regjistrit) nuk janë analizuar.
+- Komentari mbështetet në versionin e konsoliduar `cons-2025-10-07` të QBZ, i marrë më 2.10.2026. Ai nuk merr përsipër të verifikojë nëse ka ndryshime të mëvonshme të ligjit apo nëse aktet e tjera të përmendura në tekst janë ende në fuqi në të njëjtin formulim.
+
+## Licenca
+
+Apache License 2.0 — shih [LICENSE](LICENSE). Teksti i komentarit © 2026 Vojtěch Říha. Komentari ofrohet “ashtu siç është”, pa garanci për saktësinë dhe plotësinë, dhe nuk përbën këshillë juridike.
