@@ -6,9 +6,7 @@
 
 **Teksti i dispozitës:**
 
-> 1. Çdo autoritet i planifikimit dhe zhvillimit, në përputhje me sferën e tij të juridiksionit dhe të përgjegjësive, kryen vëzhgime për zhvillimet në territor, me qëllim studimin dhe vlerësimin e këtyre
->
-> zhvillimeve, parashikimin e rreziqeve apo të tendencave, parandalimin e zhvillimeve të dëmshme apo për ndërmarrjen e politikave, miratimin e dokumenteve apo të kryerjes së veprimeve të përshtatshme për sigurimin e një zhvillimi të qëndrueshëm të territorit.
+> 1. Çdo autoritet i planifikimit dhe zhvillimit, në përputhje me sferën e tij të juridiksionit dhe të përgjegjësive, kryen vëzhgime për zhvillimet në territor, me qëllim studimin dhe vlerësimin e këtyre zhvillimeve, parashikimin e rreziqeve apo të tendencave, parandalimin e zhvillimeve të dëmshme apo për ndërmarrjen e politikave, miratimin e dokumenteve apo të kryerjes së veprimeve të përshtatshme për sigurimin e një zhvillimi të qëndrueshëm të territorit.
 >
 > 2. Autoritetet e zhvillimit, kontrollit e të monitorimit të territorit, inspektimit dhe Policia e Shtetit, me marrëveshje, bashkërendojnë veprimet dhe kontrollet ndërmjet tyre, si dhe shkëmbejnë informacione e të dhëna në kuadër të zhvillimit të qëndrueshëm të territorit dhe monitorimit të zbatimit të projekteve të miratuara me lejet e ndërtimit nga autoritetet e zhvillimit të territorit.
 >
@@ -94,9 +92,7 @@ Pika 3, e ndryshuar në vitin 2025, kërkon që autoritetet e inspektimit të ba
 >
 > dh) shkelja e afatit të fillimit apo përfundimit të punimeve, sipas nenit 40 të këtij ligji, dënohet me gjobë nga 100 000 lekë deri në 500 000 lekë;
 >
-> e)2 kryerja e punimeve pa leje dënohet me gjobë të barabartë me vlerën e punimeve të kryera pa leje, sipas preventivit përkatës të depozituar pranë autoriteteve përgjegjëse, por, në çdo rast, jo më
->
-> pak se 35 000 (tridhjetë e pesë mijë) lekë për metër katror, kur ndërtimi bëhet për qëllime fitimi dhe me:
+> e)2 kryerja e punimeve pa leje dënohet me gjobë të barabartë me vlerën e punimeve të kryera pa leje, sipas preventivit përkatës të depozituar pranë autoriteteve përgjegjëse, por, në çdo rast, jo më pak se 35 000 (tridhjetë e pesë mijë) lekë për metër katror, kur ndërtimi bëhet për qëllime fitimi dhe me:
 >
 > i. konfiskim për interes publik apo strehim social të punimeve të kryera pa leje kur ndërtimi pa leje është mbi masën 2% të sipërfaqes totale ndërtimore mbi dhe nën tokë;
 >
@@ -160,9 +156,7 @@ Pikat 2–8 rregullojnë pasojat. Vlera e punimeve pa leje llogaritet sipas kost
 
 > 1. Gjobat e përcaktuara, sipas nenit 52, të këtij ligji, vendosen nga autoriteti përgjegjës i inspektimit.
 >
-> 2. Autoriteti kombëtar i inspektimit vendos, sipas nenit 52, të këtij ligji, për shkeljet e
->
-> konstatuara në nivel kombëtar, sipas përcaktimeve të këtij ligji.
+> 2. Autoriteti kombëtar i inspektimit vendos, sipas nenit 52, të këtij ligji, për shkeljet e konstatuara në nivel kombëtar, sipas përcaktimeve të këtij ligji.
 >
 > 3. Autoriteti kombëtar i inspektimit kontrollon zbatimin e dispozitave të këtij ligji nga autoriteti vendor i inspektimit dhe ushtron detyrat e tij për çështje të rëndësisë kombëtare në planifikimin dhe kontrollin e zhvillimit të territorit, kur konstaton shkelje të dispozitave të këtij ligji dhe kur ato nuk janë ushtruar nga autoriteti vendor i inspektimit.
 >
@@ -268,9 +262,7 @@ Pika 3 lejon botimin vullnetar të akteve të tjera, literaturës, metodologjive
 
 > Në zbatim të dispozitave të mësipërme të këtij kreu, Këshilli i Ministrave nxjerr akte nënligjore për miratimin e:
 >
-> a) rregullave për mbështetjen me burime financiare të autoriteteve kombëtare e vendore të
->
-> planifikimit dhe institucioneve të tjera publike në lidhje me mirëmbajtjen dhe funksionimin e regjistrit;
+> a) rregullave për mbështetjen me burime financiare të autoriteteve kombëtare e vendore të planifikimit dhe institucioneve të tjera publike në lidhje me mirëmbajtjen dhe funksionimin e regjistrit;
 >
 > b) shfuqizuar;
 >

@@ -40,7 +40,7 @@ Në krahasim me nenin 5, nga autoritetet e zhvillimit mungojnë Këshilli i Mini
 >
 > e) dhënien e miratimit në parim për përdorimin e burimeve ujore, me kërkesë të çdo autoriteti kontraktor përpara se të nisë një procedurë koncesioni;
 >
-> ë) miratimin e lejeve të zhvillimit e të ndërtimit në pronat shtetërore apo publike për objektet dhe infrastrukturat publike e shtetërore. Për të gjitha pronat shtetërore apo publike, të cilat nuk figurojnë në përgjegjësi administrimi të asnjë institucioni shtetëror, leja jepet direkt nga KKTUja. Për pronat shtetërore apo publike, të cilat figurojnë në përgjegjësi administrimi të institucioneve publike, leja jepet nga KKTU-ja pas marrjes së dakordësisë nga institucioni përkatës.
+> ë) miratimin e lejeve të zhvillimit e të ndërtimit në pronat shtetërore apo publike për objektet dhe infrastrukturat publike e shtetërore. Për të gjitha pronat shtetërore apo publike, të cilat nuk figurojnë në përgjegjësi administrimi të asnjë institucioni shtetëror, leja jepet direkt nga KKTU-ja. Për pronat shtetërore apo publike, të cilat figurojnë në përgjegjësi administrimi të institucioneve publike, leja jepet nga KKTU-ja pas marrjes së dakordësisë nga institucioni përkatës.
 >
 > 2. Lëshimi i certifikatës së përdorimit për lejet e ndërtimit, të miratuara sipas pikës 1 të këtij neni, kryhet në përfundim të një procesi të bashkërenduar të kontrollit të përputhshmërisë së ndërtimit mes autoriteteve qendrore të përfshira, sipas fushës së kompetencës, dhe autoritetit vendor përgjegjës për kontrollin e punimeve të ndërtimit në territorin administrativ ku kryhet zhvillimi.
 >
@@ -158,9 +158,7 @@ Dispozita prek drejtpërdrejt të drejtën e pronësisë dhe duhet zbatuar në m
 >
 > 4. Vendimi për pezullimin e zhvillimit përcakton arsyet e përdorimit të këtij instrumenti, territorin e përfshirë ose pjesë të caktuara të tij, llojet e lejeve apo të çështjeve të lidhura me to, dhënia e të cilave pezullohet, ndërtimet që nuk mund të prishen, afatin dhe shkallën apo nivelin e pezullimit, sipas tipit të zhvillimit. Në rastin e zhvillimeve që kryhen me deklaratë për kryerje punimesh, vendimi për pezullimin e zhvillimit përcakton kufizimin ose ndalimin e ndryshimeve madhore apo themelore, me rezultat rritjen e vlerës së ndërtimeve ekzistuese.
 >
-> 5. Pezullimi i zhvillimit mund të vendoset për një periudhë kohore deri në 12 muaj dhe mund të zgjatet edhe për 6 muaj të tjerë, për shkaqe të arsyeshme. Vendimi për pezullimin e
->
-> zhvillimit shfuqizohet automatikisht me përfundimin e kësaj periudhe.
+> 5. Pezullimi i zhvillimit mund të vendoset për një periudhë kohore deri në 12 muaj dhe mund të zgjatet edhe për 6 muaj të tjerë, për shkaqe të arsyeshme. Vendimi për pezullimin e zhvillimit shfuqizohet automatikisht me përfundimin e kësaj periudhe.
 >
 > 6. Pezullimi i zhvillimit mbaron para afatit të përcaktuar për të gjithë territorin e përfshirë ose pjesë të caktuara të tij, kur kushtet e kërkuara për miratimin e tij pushojnë së ekzistuari. Në çdo rast, ai mbaron në datën kur dokumenti i planifikimit hyn në fuqi.
 >
@@ -206,9 +204,7 @@ Pika 3 siguron vazhdimësinë e servitutit: ai transferohet automatikisht në pa
 
 > 1. Këshilli i Ministrave ka të drejtë të vendosë transferimin e pasurisë së paluajtshme publike, pronë e njësive të qeverisjes vendore, në favor të shtetit, për realizimin e investimeve publike ose private në infrastrukturën publike kombëtare, në përputhje me dokumentet në fuqi të planifikimit.
 >
-> 2. Akti i kalimit të pronësisë nga njësia e qeverisjes vendore në favor të shtetit kryhet përkundrejt pagimit të vlerës reale të tokës dhe/ose ndërtimeve në të, sipas kushteve të tregut në
->
-> çastin e transferimit të pronësisë.
+> 2. Akti i kalimit të pronësisë nga njësia e qeverisjes vendore në favor të shtetit kryhet përkundrejt pagimit të vlerës reale të tokës dhe/ose ndërtimeve në të, sipas kushteve të tregut në çastin e transferimit të pronësisë.
 >
 > 3. Njësia e qeverisjes vendore njoftohet nga ministri përgjegjës i linjës, të paktën 60 ditë para propozimit të marrjes së vendimit, sipas pikës 1, të këtij neni.
 >
@@ -238,7 +234,7 @@ Pika 4 rregullon mosmarrëveshjet: vlera ose mënyra e kompensimit konsultohet n
 >
 > ç) për pasuritë e paluajtshme, për të cilat janë pranuar kërkesa për leje ndërtimi, që janë në proces shqyrtimi deri në datën e miratimit të zonës së ushtrimit të së drejtës së preferimit.
 >
-> 3. Pasuria e blerë nëpërmjet ushtrimit të së drejtës së preferimit përdoret vetëm për interesin publik konkret, për të cilin është zgjedhur. Nëse autoriteti përgjegjës i planifikimit vendos ta shesë pasurinë e blerë me preferim brenda pesë viteve nga data e blerjes, ai është i detyruar të njoftojë ishpronarin e saj ose trashëgimtarët e tij, nëse kanë interes ta riblejnë atë pasuri.
+> 3. Pasuria e blerë nëpërmjet ushtrimit të së drejtës së preferimit përdoret vetëm për interesin publik konkret, për të cilin është zgjedhur. Nëse autoriteti përgjegjës i planifikimit vendos ta shesë pasurinë e blerë me preferim brenda pesë viteve nga data e blerjes, ai është i detyruar të njoftojë ish-pronarin e saj ose trashëgimtarët e tij, nëse kanë interes ta riblejnë atë pasuri.
 >
 > 4. Procedura e detajuar përmes së cilës mund të ushtrohet e drejta e preferimit do të përcaktohen në rregulloren e zhvillimit.
 
@@ -256,9 +252,7 @@ Pika 3 vendos një kufizim të qëllimit: pasuria e blerë me preferim përdoret
 
 > 1. Zhvillimi lejohet vetëm në kushtet e përcaktuara nga dokumentet e planifikimit apo në rregulloret e veçanta të miratuara nga KKTU-ja, për rastet në kompetencë të tij.
 >
-> 2. Për investimet strategjike, të miratuara si të tilla me vendim të Komitetit të Investimeve Strategjike, si dhe për zhvillimet prioritare sipas politikave të ministrive të linjës, përdorimi i tokës
->
-> dhe kushtet e zhvillimit, pavarësisht nga parashikimet në dokumentet e planifikimit, përcaktohen në rregullore të veçantë, të miratuar nga KKTU-ja.
+> 2. Për investimet strategjike, të miratuara si të tilla me vendim të Komitetit të Investimeve Strategjike, si dhe për zhvillimet prioritare sipas politikave të ministrive të linjës, përdorimi i tokës dhe kushtet e zhvillimit, pavarësisht nga parashikimet në dokumentet e planifikimit, përcaktohen në rregullore të veçantë, të miratuar nga KKTU-ja.
 >
 > 3. Për të gjitha vendimmarrjet e KKTU-së, ministritë e linjës, që njëkohësisht janë anëtarë të KKTU-së, shprehin dakordësinë gjatë mbledhjes së KKTU-së. Ministritë, që nuk janë anëtare të KKTU-së, japin mendimin e tyre nëpërmjet sistemit elektronik të lejeve, brenda 10 (dhjetë) ditëve nga marrja e kërkesës për mendim.
 
@@ -302,9 +296,7 @@ Pika 3, e shtuar në vitin 2020, përcakton se për rastet e KKTU-së leja e zhv
 >
 > 4. Lejet e ndërtimit të miratuara në kundërshtim me ligjin dhe dokumentet e planifikimit në fuqi janë absolutisht të pavlefshme.
 >
-> 5. Zhvilluesit, krahas dokumentacionit tekniko-ligjor, duhet të dorëzojnë edhe kontratën e sigurimit, me përfitues autoritetin publik përgjegjës për miratimin e lejes së ndërtimit. Kontrata e sigurimit duhet të mbulojë çdo dëm që mund të shkaktohet si pasojë e kryerjes së punimeve të ndërtimit në kundërshtim me lejen e ndërtimit ose lejen e zhvillimit, dokumentet e planifikimit,
->
-> legjislacionin në fuqi që rregullon fushën e ndërtimit në Republikën e Shqipërisë, si dhe çdo shpenzim të nevojshëm e të domosdoshëm për kryerjen e punimeve të reja ose përfundimin e punimeve në rastet kur zhvilluesi nuk përfundon punimet, sipas lejes së miratuar nga autoriteti publik përgjegjës.
+> 5. Zhvilluesit, krahas dokumentacionit tekniko-ligjor, duhet të dorëzojnë edhe kontratën e sigurimit, me përfitues autoritetin publik përgjegjës për miratimin e lejes së ndërtimit. Kontrata e sigurimit duhet të mbulojë çdo dëm që mund të shkaktohet si pasojë e kryerjes së punimeve të ndërtimit në kundërshtim me lejen e ndërtimit ose lejen e zhvillimit, dokumentet e planifikimit, legjislacionin në fuqi që rregullon fushën e ndërtimit në Republikën e Shqipërisë, si dhe çdo shpenzim të nevojshëm e të domosdoshëm për kryerjen e punimeve të reja ose përfundimin e punimeve në rastet kur zhvilluesi nuk përfundon punimet, sipas lejes së miratuar nga autoriteti publik përgjegjës.
 >
 > Shoqëria e sigurimit, në rast se ndodh ngjarja e siguruar, është e detyruar të paguajë dëmin brenda 30 ditëve nga data e paraqitjes së kërkesës së autoritetit publik përgjegjës. Në çdo rast, shuma e sigurimit duhet të jetë e barabartë me koston e parashikuar të ndërtimit të objektit, sipas preventivit përkatës.
 >

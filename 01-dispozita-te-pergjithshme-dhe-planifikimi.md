@@ -22,9 +22,7 @@
 >
 > v) garantimin e kushteve të sigurisë së jetës dhe të shëndetit publik, rendit publik dhe sigurisë kombëtare;
 >
-> vi) nxitjen e zhvillimit të balancuar rajonal për të siguruar shpërndarje të qëndrueshme të
->
-> popullsisë në vend në bazë të burimeve;
+> vi) nxitjen e zhvillimit të balancuar rajonal për të siguruar shpërndarje të qëndrueshme të popullsisë në vend në bazë të burimeve;
 >
 > c) të nxitë veprimet e duhura për mbrojtjen, restaurimin dhe rritjen e cilësisë së trashëgimisë natyrore e kulturore dhe për ruajtjen e shumëllojshmërisë biologjike, zonave të mbrojtura, monumenteve të natyrës, zonave të ndjeshme mjedisore dhe të peizazhit;
 >
@@ -126,7 +124,7 @@ Fusha territoriale e zbatimit është i gjithë territori i Republikës, i kuptu
 >
 > 27. “Parcela” është sipërfaqja e tokës e identifikuar me numër të parcelës kadastrale dhe e regjistruar në regjistrin e pasurive të paluajtshme.
 >
-> 28. “Përdorim i tokës” është qëllimi për të cilin është parashikuar të përdoret toka dhe strukturat në të, sikurse parashikohet në dokumentet e planifikimit apo në lejet e zhvillimit për rastet e KKTUsë.
+> 28. “Përdorim i tokës” është qëllimi për të cilin është parashikuar të përdoret toka dhe strukturat në të, sikurse parashikohet në dokumentet e planifikimit apo në lejet e zhvillimit për rastet e KKTU-së.
 >
 > 29. “Plan i detajuar vendor” është dokumenti që detajon përcaktimet e planit të përgjithshëm vendor në nivelin e një ose disa njësive strukturore dhe përcakton kushtet për zhvillimin e një zone përmes lejeve të ndërtimit.
 >
@@ -140,9 +138,7 @@ Fusha territoriale e zbatimit është i gjithë territori i Republikës, i kuptu
 >
 > 33/1. “Regjistër Kombëtar Elektronik i Lejeve të Zhvillimit/Ndërtimit” është databaza elektronike kombëtare, pjesë e sistemit e-Leje, ku regjistrohen të gjitha lejet e zhvillimit e të ndërtimit, që lëshohen nga autoritetet e zhvillimit të territorit.
 >
-> 34. “Riparim” janë punime që kanë për qëllim kthimin e një objekti në kushte të
->
-> pranueshme duke bërë ripërtëritjen, zëvendësimin, apo rregullimin e pjesëve të dëmtuara ose të degraduara.
+> 34. “Riparim” janë punime që kanë për qëllim kthimin e një objekti në kushte të pranueshme duke bërë ripërtëritjen, zëvendësimin, apo rregullimin e pjesëve të dëmtuara ose të degraduara.
 >
 > 35. “Rregullore e planifikimit” është rregullore e miratuar me vendim të Këshillit të Ministrave, që përcakton rregulla të unifikuara për përmbajtjen dhe strukturën e dokumenteve të planifikimit, sipas kreut II të këtij ligji.
 >
@@ -166,9 +162,7 @@ Fusha territoriale e zbatimit është i gjithë territori i Republikës, i kuptu
 >
 > 42. “Territor vendor” është hapësira gjeografike tokësore, nëntokësore, ujore e ajrore, që përputhet me ndarjet administrative - territoriale të njësive të qeverisjes vendore, sipas legjislacionit në fuqi.
 >
-> 43. “Vërejtje” është mendimi kundërshtues për zgjidhjet e propozuara në projektaktin e
->
-> dokumentit të planifikimit, zhvillimit apo kontrollit të zhvillimit ose një pretendim për mosrespektim të dispozitave ligjore apo nënligjore në procesin e planifikimit.
+> 43. “Vërejtje” është mendimi kundërshtues për zgjidhjet e propozuara në projektaktin e dokumentit të planifikimit, zhvillimit apo kontrollit të zhvillimit ose një pretendim për mosrespektim të dispozitave ligjore apo nënligjore në procesin e planifikimit.
 >
 > 44. “Zona” është një pjesë e sistemit territorial, me karakteristika ose përdorime të veçanta apo të njëjta, ekzistuese a të planifikuara të tokës e ndërtimeve në të, sipas rregulloreve të përdorimit të tokës. Zona mund të përmbajë disa kategori përdorimi toke, të cilat duhet të jenë pjesë të një sistemi territorial në përputhje me kategorizimin e përdorimit të tokës. Zona mund të përputhet ose jo me një apo më shumë njësi strukturore të territorit.
 >
@@ -180,7 +174,7 @@ Fusha territoriale e zbatimit është i gjithë territori i Republikës, i kuptu
 >
 > 47. “Brezi bregdetar” sipas këtij ligji përfshin sipërfaqen e tokës, përtej rërës dhe plazhit, deri në 300 m në brendësi të tokës, e matur në vijë ajrore.
 >
-> 48. “Lista e zezë” është regjistri i të gjithë zhvilluesve, shoqëri ose individë, që shkelin parashikimet ligjore të zhvillimit të territorit, kontrollit dhe disiplinimit të punimeve të ndërtimit, të cilët përjashtohen nga e drejta për të përfituar leje, sipas përcaktimeve të këtij ligji, për një periudhë 5vjeçare.
+> 48. “Lista e zezë” është regjistri i të gjithë zhvilluesve, shoqëri ose individë, që shkelin parashikimet ligjore të zhvillimit të territorit, kontrollit dhe disiplinimit të punimeve të ndërtimit, të cilët përjashtohen nga e drejta për të përfituar leje, sipas përcaktimeve të këtij ligji, për një periudhë 5-vjeçare.
 
 *Shënim në tekstin zyrtar:* (ndryshuar pika 1, 33, 38 dhe shtuar pikat 39/1, 44/1 me ligjin nr. 28/2017, datë 23.3.2017; shtuar pika 1/1 me ligjin nr. 42/2019, datë 4.7.2019; ndryshuar pikat 15, 24, 28, 39/1, 44, 44/1 dhe togfjalësh në pikën 9, shtuar pikat 39/2, 39/3, 46, 47 me Ligjin nr. 41/2024, datë 2.5.2024; ndryshuar pika 10, zëvendësuar fjalë në pikën 12 dhe 18, shtuar fjalë në pikën 14 dhe 31, shtuar pika 33/ dhe 48 me aktin normativ nr. 8, datë 1.10.2025)
 
@@ -222,9 +216,7 @@ Për pjesëmarrjen e publikut, ligji përkufizon palën e interesuar në mënyr�
 >
 > h) zhvillimi duhet të bazohet në planifikimin dhe projektimin e gjithanshëm, që garanton kushte të barabarta dhe të drejta për të gjithë qeniet, pavarësisht nga nevojat dhe karakteristikat e secilit;
 >
-> i) planifikimi e zhvillimi duhet të garantojnë eliminimin e barrierave, për një përdorim të sigurt, të barabartë e të pavarur të hapësirave nga të gjithë personat, përfshirë ata me aftësi të kufizuar ose
->
-> grupe të veçanta, për të cilët janë të nevojshme zgjidhje teknike apo pajisje të veçanta;
+> i) planifikimi e zhvillimi duhet të garantojnë eliminimin e barrierave, për një përdorim të sigurt, të barabartë e të pavarur të hapësirave nga të gjithë personat, përfshirë ata me aftësi të kufizuar ose grupe të veçanta, për të cilët janë të nevojshme zgjidhje teknike apo pajisje të veçanta;
 >
 > j) hierarkia e planeve;
 >
@@ -494,9 +486,7 @@ Shkronjat “ç”, “d”, “dh” dhe “j” i japin Agjencisë funksione m
 >
 > d) bashkërendimin e objektivave të autoriteteve qendrore të planifikimit në Planin e Përgjithshëm Kombëtar të Territorit dhe Planit Kombëtar të Hapësirës Detare dhe planet e detajuara për zonat me rëndësi kombëtare;
 >
-> dh) kryerjen e studimeve dhe vlerësimeve në fushën e planifikimit të territorit. Në përfundim, i parashtron Këshillit të Ministrave për shqyrtim dhe miratim masat për përmirësimin e kuadrit ligjor
->
-> përkatës dhe përmirësimin e ecurisë së detajimit të Planit të Përgjithshëm Kombëtar të Territorit;
+> dh) kryerjen e studimeve dhe vlerësimeve në fushën e planifikimit të territorit. Në përfundim, i parashtron Këshillit të Ministrave për shqyrtim dhe miratim masat për përmirësimin e kuadrit ligjor përkatës dhe përmirësimin e ecurisë së detajimit të Planit të Përgjithshëm Kombëtar të Territorit;
 >
 > e) hartimin e rregullores së ndërtimit bazuar në propozimet e dhëna nga ministritë e tjera për rregulloret e ndërtimit të sektorëve përkatës;
 >
@@ -534,9 +524,7 @@ Pika 2 vendos një detyrim të përgjithshëm bashkëpunimi për të gjitha inst
 >
 > dh) për kontrollin e përputhshmërisë së dokumenteve të planifikimit me ligjet, dokumentet e planifikimit të niveleve më të larta sipas hierarkisë së tyre;
 >
-> e) për zhvillimin e trajnimeve për sektorin publik dhe privat që ushtrojnë veprimtari profesionale në fushën e planifikimit të territorit, për zbatimin e këtij ligji dhe të akteve nënligjore që
->
-> lidhen me të;
+> e) për zhvillimin e trajnimeve për sektorin publik dhe privat që ushtrojnë veprimtari profesionale në fushën e planifikimit të territorit, për zbatimin e këtij ligji dhe të akteve nënligjore që lidhen me të;
 >
 > ë) për të mbështetur bashkëpunimin kombëtar dhe ndërkombëtar në fushën e planifikimit të territorit;
 >
@@ -642,13 +630,11 @@ Pika 2 kërkon që ministritë dhe organet e tjera qendrore të sigurojnë burim
 >
 > 2. Këshilli i qarkut miraton, sipas rastit, nismën dhe dokumentet e planifikimit sektorial të qarkut.
 
-*Shënim në tekstin zyrtar:* Në tekstin burimor (faqosja PDF) fjalët “qarku.” dhe “qarkut.” ndodhen jashtë vendit, menjëherë pas titullit të nenit; këtu janë vendosur në fund të pikave 1 dhe 2, pa ndryshuar përmbajtjen.
-
 Neni 11 përcakton rolin e këshillit të qarkut, i cili sipas nenit 5 pika 1.2 është i vetmi autoritet planifikimi në nivelin e qarkut. Roli i tij është i kufizuar dhe ka dy përmbajtje: koordinimin e proceseve të planifikimit në nivel qarku (pika 1) dhe miratimin, “sipas rastit”, të nismës dhe të dokumenteve të planifikimit sektorial të qarkut (pika 2).
 
 Dokumenti që i përket qarkut është plani sektorial në nivel qarku (neni 15 pika 1.2.1 dhe neni 19). Sipas nenit 19, ky plan bashkërendon programet e dokumenteve kombëtare me ato bashkiake dhe përcakton drejtime strategjike të detyrueshme edhe për planet e përgjithshme vendore të bashkive. Qarku shërben pra si nivel ndërmjetës ndërmjet planifikimit kombëtar dhe atij bashkiak. Shprehja “sipas rastit” tregon se hartimi i planeve sektoriale të qarkut nuk është i detyrueshëm në çdo rast, por varet nga nevoja dhe nga nisma e autoriteteve përkatëse.
 
-Në krahasim me këshillin bashkiak dhe kryetarin e bashkisë (nenet 12–13), këshilli i qarkut nuk ka kompetenca në kontrollin e zhvillimit: ai nuk figuron ndër autoritetet e zhvillimit të nenit 27 dhe nuk jep leje. Teksti i nenit, siç tregohet në shënimin më lart, në burimin zyrtar paraqet një çrregullim faqosjeje; përmbajtja e dy pikave nuk ndikohet prej tij.
+Në krahasim me këshillin bashkiak dhe kryetarin e bashkisë (nenet 12–13), këshilli i qarkut nuk ka kompetenca në kontrollin e zhvillimit: ai nuk figuron ndër autoritetet e zhvillimit të nenit 27 dhe nuk jep leje.
 
 ### Neni 12 — Përgjegjësitë e këshillit bashkiak
 
@@ -696,9 +682,7 @@ Ndarja e kompetencave ndërmjet këshillit bashkiak dhe kryetarit të bashkisë 
 >
 > dh) miratimin e planeve të detajuara vendore.
 >
-> 2. Të gjitha institucionet publike në nivel qendror dhe lokal janë të detyruara të ndihmojnë
->
-> autoritetin vendor përgjegjës për planifikimin dhe administrimin e territorit të bashkisë, me dokumentacionin mbështetës të sektorëve të ndryshëm, të nevojshëm për përgatitjen e dokumenteve vendore të planifikimit.
+> 2. Të gjitha institucionet publike në nivel qendror dhe lokal janë të detyruara të ndihmojnë autoritetin vendor përgjegjës për planifikimin dhe administrimin e territorit të bashkisë, me dokumentacionin mbështetës të sektorëve të ndryshëm, të nevojshëm për përgatitjen e dokumenteve vendore të planifikimit.
 
 *Shënim në tekstin zyrtar:* (ndryshuar shkronja “d” me ligjin nr. 28/2017, datë 23.3.2017; shtuar togfjalësh në shkronjën ‘’c’’ të pikës 1 me Ligjin nr. 41/2024, datë 2.5.2024)
 
@@ -748,9 +732,7 @@ Pika 4 përcakton pasojën e mospërmbushjes: njësia që nuk i plotëson kërke
 >
 > 2. Autoritetet kombëtare dhe vendore mund t’i delegojnë, me marrëveshje, njëra-tjetrës përgjegjësi dhe funksione të caktuara, që lidhen me planifikimin dhe kontrollin e zhvillimit të territorit.
 >
-> 3. Autoritetet kombëtare dhe vendore mund të kontraktojnë kryerjen e shërbimeve të ndryshme
->
-> për planifikimin dhe zhvillimin e territorit ose mund t’i kryejnë ato bashkërisht në marrëveshje mes tyre.
+> 3. Autoritetet kombëtare dhe vendore mund të kontraktojnë kryerjen e shërbimeve të ndryshme për planifikimin dhe zhvillimin e territorit ose mund t’i kryejnë ato bashkërisht në marrëveshje mes tyre.
 
 *Shënim në tekstin zyrtar:* (shtuar neni me ligjin nr. 73/2015, datë 9.7.2015; shtuar fjalë në pikën 3 me aktin normativ nr. 8, datë 1.10.2025)
 
@@ -818,9 +800,7 @@ Pika 2 shpreh qëllimin final të sistemit: integrimin e të gjitha dokumenteve 
 >
 > d) orientimi i objektivave për planifikimin rajonal, ndërvendor e vendor;
 >
-> dh) bashkërendimi i punës, harmonizimi dhe orientimi i objektivave sektorialë të zhvillimit
->
-> me efekt në territor;
+> dh) bashkërendimi i punës, harmonizimi dhe orientimi i objektivave sektorialë të zhvillimit me efekt në territor;
 >
 > e) përputhja me orientimet dhe udhëzimet e dokumentit të perspektivës europiane për zhvillimin hapësinor.
 >
@@ -972,8 +952,6 @@ Shkronjat “d”–“ë” kanë përmbajtje materiale: përcaktimi strategjik
 
 *Shënim në tekstin zyrtar:* ( ndryshuar fjalë në shkronjën ‘’c’’ të pikës 1 dhe pika 2 me Ligjin nr. 41/2024, datë 2.5.2024)
 
-*Shënim në tekstin zyrtar:* Në tekstin burimor (faqosja PDF) fjala “ligji;” ndodhet jashtë vendit, para pikës 1; këtu është vendosur në fund të shkronjës “b” të pikës 1, pa ndryshuar përmbajtjen.
-
 Neni 20 rregullon Planin e Përgjithshëm Vendor (PPV), dokumentin kryesor të planifikimit në nivel bashkie, i cili miratohet nga këshilli bashkiak (neni 12 pika 2 shkronja “b”) mbi nismën dhe hartimin e kryetarit të bashkisë (neni 13). Pika 1 rendit objektivat e tij: balancimin e nevojave dhe interesave kombëtarë e vendorë, krijimin e kushteve për zhvillim të qëndrueshëm sipas parimeve të ligjit, drejtimin e zhvillimit të territorit, rregullimin e përdorimeve të tokës dhe të intensitetit e shtrirjes së ndërtimit në sistemet natyrore, bujqësore dhe urbane, programet për rigjenerimin urban dhe mbrojtjen e mjedisit, vendndodhjen e infrastrukturave publike dhe të servituteve publike, si dhe ruajtjen e zonave të mbrojtura.
 
 Shkronja “ç” është thelbësore për pronarët: PPV-ja rregullon përdorimin e tokës dhe intensitetin e ndërtimit, pra përcakton në masë të madhe të drejtën për zhvillim (neni 3 pika 10) në territorin e bashkisë. PPV-ja përcakton gjithashtu territoret që do t’i nënshtrohen planeve të detajuara vendore (neni 22 pika 1), zonat ku zbatohet intensiteti i ndërtimit me kushte (neni 30), programet e transferimit të së drejtës për zhvillim (neni 31) dhe zonat e ushtrimit të së drejtës së preferimit (neni 36 pika 2).
@@ -1032,9 +1010,7 @@ Ligji nuk përcakton organin që i miraton këto plane, as procedurën e tyre; k
 >
 > 11. Shfuqizuar.
 >
-> 12. Plani i detajuar vendor regjistrohet në regjistrin e pasurive të paluajtshme si bazë për
->
-> kryerjen e transaksioneve me pronën. Parcelat e reja që krijohen nga nënndarja dhe/ose bashkimi i parcelave ekzistuese janë objekt transaksioni vetëm pasi të jenë regjistruar në regjistrin e pasurive të paluajtshme, me kërkesë të zhvilluesit.
+> 12. Plani i detajuar vendor regjistrohet në regjistrin e pasurive të paluajtshme si bazë për kryerjen e transaksioneve me pronën. Parcelat e reja që krijohen nga nënndarja dhe/ose bashkimi i parcelave ekzistuese janë objekt transaksioni vetëm pasi të jenë regjistruar në regjistrin e pasurive të paluajtshme, me kërkesë të zhvilluesit.
 >
 > 13. Struktura, forma, pjesët përbërëse të përmbajtjes, procesi për nismën, informimin dhe takimet publike të detyrueshme, hartimin dhe miratimin e planit të detajuar vendor, kriteret për përcaktimin e kufijve të zonës, njësisë strukturore që trajtohet me plan të detajuar vendor dhe kushte të tjera, përcaktohen në rregulloren e planifikimit.
 >
@@ -1082,9 +1058,7 @@ Bashkërendimi nuk është formalitet. Sipas nenit 25 pika 1 shkronja “a”, a
 
 > 1. Autoriteti përgjegjës për hartimin/rishikimin e dokumentit të planifikimit organizon një ose më shumë seanca takimi publik dhe këshillimi, përpara çdo vendimmarrjeje që ka lidhje me dokumentet e planifikimit në nivel qendror dhe me planin e përgjithshëm vendor dhe i përsërit ato, sipas nevojës, me qëllim informimin e plotë të palëve të interesuara dhe zgjidhjen e konflikteve.
 >
-> 2. Autoriteti përgjegjës i planifikimit i njofton publikut dhe palëve të interesuara vendin, datën dhe orën e çdo takimi publik dhe vë në dispozicion të tyre projektin e dokumentit të planifikimit, të paktën 30 ditë përpara takimit. Njoftimi kryhet përmes botimit të informacionit në regjistër dhe në dy
->
-> gazeta me qarkullim më të madh ose në organe të tjera të medias.
+> 2. Autoriteti përgjegjës i planifikimit i njofton publikut dhe palëve të interesuara vendin, datën dhe orën e çdo takimi publik dhe vë në dispozicion të tyre projektin e dokumentit të planifikimit, të paktën 30 ditë përpara takimit. Njoftimi kryhet përmes botimit të informacionit në regjistër dhe në dy gazeta me qarkullim më të madh ose në organe të tjera të medias.
 >
 > 3. Palët e interesuara kanë të drejtë që, gjatë periudhës nga data e njoftimit, sipas pikës 2 të këtij neni, deri në datën e përcaktuar të takimit publik, të kenë akses në materialet e informacionet që lidhen me dokumentin e planifikimit, përfshirë përmbledhjen e procesit të bashkërendimit, të kryer sipas nenit 23, të këtij ligji, dhe në vërejtjet, propozimet e përfundimet e arritura gjatë këtij procesi.
 >
@@ -1124,9 +1098,7 @@ Moskryerja e takimit publik dhe e këshillimit është kundërvajtje administrat
 >
 > 3. Në përfundim të rishqyrtimit, projektakti i dokumentit të planifikimit i dërgohet për miratim autoritetit përkatës miratues.
 >
-> 4. Autoriteti përgjegjës për miratimin përfu-ndimtar, jo më vonë se 15 ditë pas miratimit të tij, boton në Regjistrin Kombëtar të Planifikimit të Territorit edhe në sistemin e-Planifikimi”. dhe u dërgon Arkivit Qendror Teknik të Ndërtimit dhe autoritetit të planifikimit një kopje të
->
-> dokumentit të planifikimit, të miratuar së bashku me vendimin e miratimit të tij.
+> 4. Autoriteti përgjegjës për miratimin përfu-ndimtar, jo më vonë se 15 ditë pas miratimit të tij, boton në Regjistrin Kombëtar të Planifikimit të Territorit edhe në sistemin e-Planifikimi”. dhe u dërgon Arkivit Qendror Teknik të Ndërtimit dhe autoritetit të planifikimit një kopje të dokumentit të planifikimit, të miratuar së bashku me vendimin e miratimit të tij.
 >
 > 4/1 Autoriteti përgjegjës për miratimin përfundimtar, jo më vonë se 15 ditë pas botimit në Regjistrin Kombëtar të Planifikimit të Territorit dhe sistemin e-Planifikimi, dërgon pranë Agjencisë Shtetërore të Kadastrës për regjistrim planet e detajuara për zona të rëndësisë kombëtare dhe planet e detajuara vendore. Me regjistrimin e vendimit të lejes së zhvillimit ose vendimit të lejes së ndërtimit, sipas rastit, me kërkesë të zhvilluesit apo autoritetit përgjegjës për miratimin e lejes së zhvillimit/ndërtimit, ndryshon automatikisht resursi i tokës, sipas parashikimit të planit.
 >
